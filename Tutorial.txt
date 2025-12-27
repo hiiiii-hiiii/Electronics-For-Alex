@@ -16,3 +16,19 @@ This Kit Includes:
 1 Servo (Requires Arduino Nano or uno or ESP-32 or a controller board)
 18 Small Wires
 4 Long Wires
+
+How To Figure out Possitive and negetive legs:
+
+To Find LEDs the longer one is Possitive and the shorter one is negetive.
+
+For Buzzers on top of the buzzer there is a little + over one of the legs that one is possitive.
+
+For DC motors it doesnt matter except if you want it to spin a specific direction so you just plug it in one way it goes that way and. other way makes it go the other direction.
+
+Resistors work both ways.
+
+Batterys Red = Possitive Black = Negative
+
+Servos you can search it up but you need a controller for it.
+
+To Find Diagrams look at the PNGs.

@@ -1,0 +1,18 @@
+You Can Buy More Stuff on Core Electonics Website  (https://core-electronics.com.au/categories/)
+
+This Kit Includes:
+5 Red LEDS
+4 Yellow LEDS
+4 Green LEDS
+2 Blue LEDS
+4 Buttons
+2 Buzzers
+2 Varible Resistors
+1 DC Motor
+1 Battery Pack (Needs AA Battery)
+2 Tilt Switches
+6 220 Ohm Resistors Band Colour (Red Red Black Black Brown)
+2 1k Ohm Restistors Band Colour (Brown Brown Black Black Brown)
+1 Servo (Requires Arduino Nano or uno or ESP-32 or a controller board)
+18 Small Wires
+4 Long Wires
